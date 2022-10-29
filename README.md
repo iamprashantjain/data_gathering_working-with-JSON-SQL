@@ -1,1 +1,3 @@
-# working-with-JSON-SQL
+JSON stands for Java Script Object Notation and has become one of the most important data formats to store and transfer data across various systems. This is due to its easy-to-understand structure and also because it is very lightweight. You can easily write simple and nested data structures using JSON and it can be read by programs as well. In my opinion, JSON is much more human-readable as compared to XML, although both are used to store and transfer data. In modern web applications, by default JSON is being used to transfer information.
+
+There might be cases when sometimes the data is stored in SQL and we want to fetch that data from SQL in python and then perform operations using pandas. So let’s see how we can interact with SQL databases using pandas.
